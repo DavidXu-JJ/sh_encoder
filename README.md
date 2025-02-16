@@ -31,4 +31,4 @@ This code repository is only used for the academic-purpose code release of [Stre
 }
 ```
 
-Please follow the License of both [nr3d](https://github.com/PJLab-ADG/nr3d_lib), [torch-ngp](https://github.com/ashawkey/torch-ngp) and [StreetUnveiler](https://github.com/DavidXu-JJ/StreetUnveiler).
+Please follow the License of [nr3d](https://github.com/PJLab-ADG/nr3d_lib), [torch-ngp](https://github.com/ashawkey/torch-ngp) and [StreetUnveiler](https://github.com/DavidXu-JJ/StreetUnveiler).
